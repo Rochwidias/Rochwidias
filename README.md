@@ -86,13 +86,7 @@ Coffee · Tea · Spices · Staples — 100% straight from the farm
   <img src="https://github-readme-stats.vercel.app/api?username=Rochwidias&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochwidias&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rochwidias&theme=tokyonight&hide_border=true&fire=38BDF8&ring=38BDF8" />
-</p>
-
 ---
-
 ## 📫 Get in Touch
 
 [![Website](https://img.shields.io/badge/Website-rochwidias.vercel.app-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://rochwidias.vercel.app)
