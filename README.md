@@ -19,6 +19,7 @@
 
 - 🔭 Currently focused on building **AI chatbots** for Discord & Telegram
 - 🤖 Building bots with features: **music player**, **multimodal AI chat**, **anti-spam**, **streaming responses**
+- 🌐 Building **Next.js web apps**: student dashboard (Gmail/Calendar) & multi-provider AI chatbot
 - 🌱 Learning **Python**, **Google Gemini AI** integration, and building production-grade bots
 - ☁️ Comfortable with 24/7 deployments on **Railway** + persistence with **Supabase (PostgreSQL)**
 - 🎵 Fun fact: Discord bot named **WhoTao**, Telegram bot named **BotJawir**
@@ -63,6 +64,8 @@ Coffee · Tea · Spices · Staples — 100% straight from the farm
 | --- | --- | --- |
 | 🎵 [WhoTao Discord Bot](https://github.com/Rochwidias/bot-discord-with-gemini-api-key) | Multi-purpose Discord bot: music player + AI chat, auto-restart, 24/7 on Railway | Python, discord.py, Gemini AI, Supabase, yt-dlp |
 | 💬 [BotJawir Telegram Bot](https://github.com/Rochwidias/bot-telegram-chat-bot-with-gemini-api) | Telegram AI bot: streaming responses, image (vision) analysis, anti-spam & cooldown | Python, python-telegram-bot, Gemini AI |
+| 📝 [notedwork](https://github.com/Rochwidias/notedwork) | Student dashboard: real Gmail + Google Calendar via OAuth (encrypted tokens), tasks, preview mode, PWA — [live demo](https://notedwork.vercel.app) | Next.js, TypeScript, Tailwind CSS, Supabase |
+| 💬 [RuangTanya Chatbot Web](https://github.com/Rochwidias/chat-bot-web) | Multi-provider BYOK chatbot (OpenAI/OpenRouter/Gemini/DeepSeek/custom): reasoning levels, image vision, CSRF + rate-limit + anti-SSRF — [live demo](https://chat-bot-web-flax.vercel.app) | Next.js, TypeScript, Tailwind CSS |
 | 🏪 [Kedai Nusantara Store](https://rochwidias-store.vercel.app) | E-commerce for farm produce: product catalog, cart, checkout & QRIS payment | Next.js, Tailwind CSS, Vercel |
 
 ---
@@ -79,6 +82,9 @@ Coffee · Tea · Spices · Staples — 100% straight from the farm
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-FF3E3E?style=for-the-badge&logo=youtube&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 ## 📫 Get in Touch
