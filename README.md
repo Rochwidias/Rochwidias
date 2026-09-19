@@ -11,6 +11,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Rochwidias-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rochwidias)
 [![Profile Views](https://komarev.com/ghpvc/?username=Rochwidias&style=for-the-badge&color=38BDF8)](https://github.com/Rochwidias)
 
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
